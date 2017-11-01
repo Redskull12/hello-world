@@ -3,4 +3,4 @@ something
 
 Hi there
 
-ok then I wrote sth aboyt me
+ok then I wrote sth about me
